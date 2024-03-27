@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<!--home page-->
+<html>
+    <head>
+        <title>Connect with your Community!</title>
+    </head>
+    <!--add images-->
+    <body>
+        <h1>Your community is filled with amazing ideas!</h1>
+        <h2 style="color:green;">Explore them, and help develop them today.</h2>
+        <button>sign up</button>
+    </body>
+    <!--create the sign up pop up-->
+<!--main page-->
+
+<!--pm page-->
+<!--info page-->
+<head>
+    <title>dive into our resources!</title>
+</head>
+<!--include information about the website and our intentions-->
+<body>
+    <p1> As students we hope to create a tool to help bring our community together. In doing so we start of small and endorce 
+        start ups through our website. Learn more about theses projects today with a simple click. 
+    </p1>
+    <!--aim to create own database-->
+    <a href="https://www.builtinboston.com">Boston Tech Jobs</a>
+    <a href="https://www.builtinboston.com/companies/type/fintech-companies">Boston Tech Companies</a>
+    <a href="https://www.builtinboston.com/articles/boston-food-delivery-startups">Boston Startups</a>
+</body>
+</html>
+<javascript>
+
+</javascript>
+<css>
+
+</css>
